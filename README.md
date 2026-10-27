@@ -50,7 +50,7 @@ dataset/
 `-- folder6/   # Testing HR images
 ```
 
-Each LR burst folder contains `lr_frame_00.png`, `lr_frame_01.png`, etc. Its corresponding HR image uses the sample ID as its filename. The first frame is the reference.
+We provide the dataset of our work. You can download it by the following link: [dataset](https://pan.baidu.com/s/1jQBMkcJPPafd8hDNj323CQ?pwd=3114 ) code:3114.
 
 ## Usage
 
