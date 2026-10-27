@@ -1,7 +1,0 @@
-torch==2.0.0
-torchvision==0.15.1
-numpy>=1.23,<2
-Pillow>=9.0,<12
-lpips==0.1.4
-scipy>=1.9,<1.12
-tqdm>=4.64,<5
